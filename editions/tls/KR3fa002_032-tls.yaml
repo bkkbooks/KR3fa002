@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已上二圖舊本原有此言求圓於方之法
+  hash: sha256:c65508fa0771fb8224a6302d6931c2e4ee7ad1ddd67475de3a9f603540099a00
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:fe26f206129dc5933d82bd410451524fbe8dfadf82096b5855fe830d5a1bc080

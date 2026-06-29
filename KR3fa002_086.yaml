@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/86
+seq: 86
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 載堉圖解曰勾股者算術之名也其形狀如曲尺幫謂之矩尺身短者勾也尺稍長者股也尺稍至尺身斜絣一線者弦也假如勾三尺股四尺則弦該五尺也既方之外半其一矩環而共盤得成三四五兩矩共長二十有五是謂積矩趙君卿注曰勾股之法先知二數然後推一見勾股然後求弦先各自乘成其實實
+  hash: sha256:3e15c43cb6556744f29403c1c0e682ed0c8398e9d57bac19ccce01e7e4de0c0b
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:5f2baa752e47cba9c4dd7f1b600fa6dd3bceaf617282c1115f2ad06d75d54579

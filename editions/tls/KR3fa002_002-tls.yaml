@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後學載堉著圓方句股之説出於古周髀筭經者周公之遺書也舊有圖解若干趙君卿所撰也新增圖解若干余所撰也夫新增者何爲而作耶余觀諸家筭術最疎謬者莫如圓田之屬蓋彼尊信圍三徑一舊率而執守之不肯運一規於壁間以尺量之較其是否儒者之學以
+  hash: sha256:e55101a92ac48ad0d003a8eee51ad8da6485a3370cdba4b7f97edb6fb522f697
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:b0e40e2e7cf852512341c6cb7358c9bca69ef94c324bdd026a45d80990b3747f

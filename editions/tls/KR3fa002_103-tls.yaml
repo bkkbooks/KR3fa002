@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/103
+seq: 103
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 趙君卿註曰勾實之矩以股弦差爲廣股弦幷爲袤而股實方其裏減矩勾之實於弦實開其餘即股倍股在兩邊爲從法開矩勾之角即股弦差加股爲弦以差除勾實得股弦幷以幷除勾實亦得股弦差令幷自乗與勾實爲實倍幷爲法所得亦弦色實減幷自乗如法爲股載堉圖解曰股弦差即今筭家所謂股弦
+  hash: sha256:de5151905a18f74fa58a9efbaca0fd930f3a50b20263f55fe50c19e3cc327f9c
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:33151f447db369ce981bd2c368dcbaf36a6e24bdbce0948ea89cc342ac98867a

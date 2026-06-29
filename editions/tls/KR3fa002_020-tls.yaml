@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求圓於方圖解商高曰數之法出於圓方圓出於方方出於矩卽此先畫方形若棋盤紋每面九行每行九寸共計九九八十一寸後於四隅運規爲圓與四隅適相投却量方外四面之圓共計四十寸所謂圓出於方也
+  hash: sha256:96d27689f3b5c2fece76a52b47ae5c49a4ea3c171752115417d7b752ef5060a2
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:9c05ace16169dd78d41ab360d5d30c998cd5846111ce25ab7949bcfb4f40d5cc

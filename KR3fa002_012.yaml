@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徑求面羃者置徑全數自乘為實又自乘畢一百乘之一百六十二除之所得為實開平方法除之得面羃面羃求周及徑者置面羃全數自乘所得一百六十二乘之一百除之為實開平方法除之所得副置其一折半為實開平方法除之所得四十乘之九歸得周其一則不折半但以開平方法除之得徑此乃周公所撰而算家失其傳故表出之
+  hash: sha256:1f09ee01d71608980a8ac855e1d525f98679b38bc35b2d30c805612562d04b77
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:740c40eecb619aec9106f529f45b19b3d2eb709a23bf977086f8d76ac069405f

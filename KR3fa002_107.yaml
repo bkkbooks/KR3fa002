@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/107
+seq: 107
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為法除勾實九得股弦并九以並九為法除勾實九亦得股弦差一令並九自乘得八十一與勾實九共九十為實倍並九得十八為法除之所得亦弦五勾實九減並九自乘八十一餘七十二如法十八除之為股四右第二段
+  hash: sha256:e7e680b8b15380060c87fe012a00290cb069a2587393a610c1286d292df1c0be
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:0b894475a7bc5589f38e693ce67f83674ed9455d234a776fe6b7de9b07a199da

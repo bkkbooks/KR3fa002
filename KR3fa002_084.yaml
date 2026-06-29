@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/84
+seq: 84
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古周髀算經圖解後漢趙君卿注後學載堉圖解周髀經文曰故折矩以為勾廣三股修四徑隅五趙君卿注曰將為勾股之率故曰折矩也橫者謂之廣勾亦廣廣短也從者謂之修股亦修修長也徑直隅角也亦謂之弦
+  hash: sha256:69420319c705f3a986a8589979d2bb73db4130ce829ca48ed156564e3310e1e9
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:7f593689b2990600d3bae57b2ec3bf47df21b43eb4463310c72ffc1f4bb41adb

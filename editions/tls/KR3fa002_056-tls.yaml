@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 載堉圖解曰今有方池一所每面方六尺欲要改爲圓池問圓池周徑各幾何荅曰周二丈六尺六寸六分六釐六毫六絲六忽六微徑八尺四寸八分五釐二毫八絲一忽三微六纖法曰置方六尺以四十乗之九歸得二丈六尺六寸六分有奇卽周又置方六尺以一尺四寸一分四釐二毫一絲三忽五微六纖乗之一尺除之所得卽徑
+  hash: sha256:ea0f56db39fb5463117cf86b160b5dbc46d2fcb210068806e86e94eba1ae0dd6
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:de503ba3a0531c62ca1f134b3dc785bf9c7f987fe1942e9bb2e42d6203ecbe7c

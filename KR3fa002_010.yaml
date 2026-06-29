@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方圓密率算術周徑羃積相求周求徑者置周全數九因四十除之所得自乘倍之為實開平方法除之得徑徑求周者置徑全數自乘半之為實開平方法除之所得四十乘之九歸得周周求面羃者置周全數九因四十除之所得自乘倍之為實又自乘畢以一百乘之一百六十二除之所得為實開平方法除之得面羃
+  hash: sha256:08f1e3d1478505a2ec68e1f8bf0403109ba8a69221d0621b6fdc7aa78cedc3a7
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:4f6ec98ade0065920b899aeeaec7f293ac23e45db5654ec008def4786fef3766

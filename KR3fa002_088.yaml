@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/88
+seq: 88
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 成勢化外乃變通故曰既方其外或並勾股之實以求弦實之中乃求勾股之分並實不正等更相取與互有所得故曰半其一矩其術勾股各自乘三三如九四四一十六並為弦自乘之實二十五減勾於弦為股之實一十六減股於弦為勾之實九兩矩者勾股各自乘之實共長者並實之數將以施於萬事而此先陳其率也
+  hash: sha256:77a2f38d93a38d9e2ac087215baf04cf9e124749a5d7057d97842026e6588da4
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:4ef5e90548024f37e28d597be4b9b1cb24e9cb4f7f07cb0bb17b741f7545a356

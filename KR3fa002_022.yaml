@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 周髀序後漢趙君卿撰夫高而大者莫大於天厚而廣者莫廣於地體恢宏而廓落形修廣而幽清可以玄象課其進退然而弘遠不可指掌也可以晷儀驗其長知然而巨闊不可度量也雖窮神知化不能極其妙探賾索隱不能盡其微是以詭異之說出則兩端之理生遂有渾天蓋天兼
+  hash: sha256:8c9c3866b8aabfa11e5d2a194af9213853bf1b394017b4445351cb25012e83f8
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:ee6643ef1bf4f368eae0591332640ca7c9a0354ec5b19d4e731f54cadcb8d073

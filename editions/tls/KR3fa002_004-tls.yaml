@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 格物窮理爲先務數居六藝之一規矩方圓之至此最易察者而尚莫能辨何況理之玄奧者乎無待運規不拘何等圓器但周徑分明者皆可較耳用紙一條圍器一周均作三折以較其徑顯然不相合矣是知圍三徑一之説姑舉大槩而言非密率也古周髀筭經首章載周公與商高相問荅此理甚明後人續以圍三徑一之術蓋傳訛也商高所謂圓
+  hash: sha256:012c0c3d8fe8834667852c826dfdd1520cdd89b8f47abfe4bda8c602e144f84c
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:fb17ce1f2542c013594835f1d5e492fb51b2a17fcbd13b6197d85efbe8b034dc

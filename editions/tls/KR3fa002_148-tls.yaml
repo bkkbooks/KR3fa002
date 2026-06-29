@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/148
+seq: 148
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之術以盡開方之妙百世之下莫之可易則君卿者誠筭學之宗師也嘉定六年癸酉十一月一日丁卯冬至承議郎權知汀州軍州兼管內勸農事主管坑冶括蒼鮑澣之仲祺謹書載堉曰齊有晏嬰漢有灌嬰皆大臣也故趙嬰字君卿蓋取此也以此證之爽字誤無疑矣
+  hash: sha256:dcebc2832b1e0df8234f65772357c163503f5aa72a6e01fa9f6f9b90a573cd6d
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:2a6c7a081fb2f950beeba6208adaa396e8a7a4c01ffd24f0a25e51cf1e716a9f

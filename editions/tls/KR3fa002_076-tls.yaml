@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/76
+seq: 76
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 周公曰大哉言數請問用矩之道商高曰平矩以正繩偃矩以望高覆矩以測深臥矩以知達環矩以爲圓合矩以爲方方屬地圓屬天天圓地方方數爲典以方出圓笠以寫天天青黑地黃赤天數之爲笠也青黑爲表丹黃爲裏以象天地之位是故知地者智知天者聖智出於句句出於矩夫矩之於數其裁制萬物唯所爲耳周公曰善哉
+  hash: sha256:d8e368c1e4a511c0b9cc24b1227af1c2711417d2a8bf2b64171adada7f0873ab
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:4ee4bb0d80012c830c55fa647c0a55677e04ca7fc6550e00996444d543551daf

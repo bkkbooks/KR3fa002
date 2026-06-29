@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/74
+seq: 74
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 巳上十圖皆係新添世俗視之淡然無味達者觀之有無窮之味焉其容方五及容方十得河圖之中數周公嘉量所自出也惟容方九乃乾卦之陽數配以四十坤卦老隂之數故無餘分此尤妙中至妙者也容方八者祖沖之所造疏淺率出於此也一百一十三三百五十五皆有餘分沖之削去是以疏淺以此證彼其謬可知也
+  hash: sha256:56b4b9c9cebf6965d79686834416291a27b233cacdd444beb707583f109d42ef
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:892aec251fe983bfc1407fe55e4bf4200e094bd19008086d29d0236254061264

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/114
+seq: 114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 較者是也勾弦幷即今筭家所謂勾弦和者是也此叚大槩與上叚同而其所不同者勾與股二字也股實之矩十六以勾弦差二爲廣勾弦幷八爲袤而勾實九方其裏減矩股之實十六於弦實二十五開其餘九即勾三倍勾三在兩邊爲從法六開矩股之角十六得二即勾弦差加差二於勾三爲弦五以差
+  hash: sha256:871a756e3abad946874cb630611ddebaf1ddde4c70d958e8fa35f0efc890350f
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:11a6b43e97475c2420f9ba6bab73d169032fa2d0f69e6d3adbe372716dff80b8

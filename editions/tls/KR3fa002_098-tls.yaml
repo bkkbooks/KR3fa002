@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/98
+seq: 98
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以黃筆界書故名加差實一於兩箇朱實內亦成弦實二十五以差實一減弦實二十五半其餘得一十二以差一爲從法開方除之復得三即勾矣加差一於勾三即股四凡幷勾股各自乗之實即成弦實共二十五或矩於內或方於外形詭而量均體殊而數齊此四句解見後二段右第一段
+  hash: sha256:f6b2aab2cec979e324ae6cf4d90b28975b10a56d023edfbc365cab6854064f79
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:f02477d5bdff49f28fd0271fc86fb348c34837e33b4fb38a6ff35b9a18ebf89c

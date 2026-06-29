@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商高曰數之法出於圓方圓出於方方出於矩矩出於九九八十一趙君卿註曰圓方者天地之形陰陽之數圓規之數理之以方方同匝也方正之物出之以矩矩廣長也推圓方之率適廣長之數須乗除以計之九九者乗除之原也又曰此言求圓於方之法萬物周事而圓方用焉大匠造制而規矩設焉或毀方而
+  hash: sha256:0d33ffe476aaaae2bf71b7202daaf6435afd89fd845f772042f5a9dbd5e2f2b9
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:3d90f396a12f0d8988af075d59b52d5207e3db0243a6963dbd5091291d91fd5c

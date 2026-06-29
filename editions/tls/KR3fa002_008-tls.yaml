@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 何況以語其圓率之疎密也哉卽有通筭者亦以爲丈量田地不過得其大略摠差一二步何妨也殊不知聖人設此術豈專爲圓田耶大而璇璣玉衡小而黃鐘玉琯凡爲圓器必求周徑豈容一秒一忽而有錯誤寧於求圓之謬而竟不之察乎今編此書難採古人成説而獨詳於求圓一事蓋欲微顯闡幽補其闕略而已
+  hash: sha256:fcff92a241a6cacae3d01b3cb9abd244623a68422d28a91654404c8d8b5782b5
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:efacaeda4da7129816dce87113390f89edd56346aebf729a8a57edc14f18cb24

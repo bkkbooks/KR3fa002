@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 載堉圖解曰今有方池一所每面方二尺欲要改為圓池問圓池周徑各幾何答曰周八尺八寸八分分釐八毫八絲八忽八微八纖徑二尺八寸二分八釐四毫二絲七忽一微二纖法曰置方二尺以四十乘之九歸得八尺八寸八分有奇即周又置方二尺以一尺四寸一分四釐二毫一絲三忽五微六纖乘之一尺除之所得即徑
+  hash: sha256:6ae8663979b9a20c0094be6820aeafa1084dfb529ef8e07a09b81225292fcfba
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:7ef763f2d0d8f02975092a93064b1414371773c5d4ef55a0da394fe5b16db46f

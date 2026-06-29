@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 出於方方出於矩矩出於九九八十一又曰環矩以爲圓合矩以爲方方屬地圓屬天天圓地方方數爲典以方出圓今詳其意謂書方形若棋盤紋每行九寸九行共有八十一寸却於四隅之外運規爲圓與四隅適相投較量四面方外餘圓各長一尺則其一周共有四尺是謂出於矩耳傳曰不以規矩不能成方圓此之謂也今之學者小九九尚不熟
+  hash: sha256:3b29c089d1dcc04515ce4d947282ccbe229cbf3d1321ca637ea6abd853483043
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:f4446e22b0d431812fbd9659cd833a7158fce51afba4afb45d354faa74d212ee

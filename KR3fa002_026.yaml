@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後漢趙君卿注後學載堉圍解昔者周公問於商高曰竊聞乎大夫善數也請部古者包犧立周天曆度夫天不可階而升地不可尺寸而度請問數安從出趙君卿注曰商高周時賢大夫善算者也以商高善數請問其目
+  hash: sha256:26e3c99f7715a086fe22e99650795b2584b8161969e3ccfa0490ad8be0911006
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:a147e4aa0be81f024f7e2b333c483c4c7b8ee809d239b06a0d983e60bf743285

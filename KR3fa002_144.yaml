@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/144
+seq: 144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 嬰注周髀一卷甄鸞注周髀一卷其曆算類仍有李淳風注周髀算經二卷本此一書耳至於本朝崇文總目與夫中興館閣書目皆有周髀算經二卷云趙君卿述甄鸞重述李淳風等注釋趙君卿名爽君卿其字也如是則在唐以前則有趙嬰之注而本朝以來則是趙爽之本所記不同意者趙嬰趙爽止是一人豈其字文相類轉
+  hash: sha256:a45d485f9d860f876af9101edc1d886770c9c13916f60c927b90ee296a5541ef
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:a0f9e8a564288ba12e794fb7cd41022d100f90c84a54f7cc41ab2ede3677e419

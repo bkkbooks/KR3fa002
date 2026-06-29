@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/125
+seq: 125
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實一黃實一之多即勾股差實一以差實一減之五十開其餘四十九得外大方外大方之面即勾股並七也令並七自乘得四十九倍弦實二十五為五十乃以四十九減之開其餘一得中黃方一中黃方一之面即勾股差一以差一減並七而半之得三為勾加差一於並七而半多得四為股右第四段
+  hash: sha256:5a2bf5473edfcd06f4426298be51749f9c46b5b5bdd8a143205e2cdde4c2a5e6
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:fcd7d213cc9cda23fb4036ab441fa1f6b2a518fe657f11a9cafa0d28c812ba6b

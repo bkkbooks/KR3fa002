@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/142
+seq: 142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宋鮑澣之撰周髀筭徑二卷古蓋天之學也以勾股之法度天地之高厚推日月之運行而得其度數其書出於商周之間自周公受之於商高周人志之謂之周髀其所從來達矣隋書經籍志有周髀一卷趙嬰註周髀一卷甄鸞重述而唐之藝文志天文類有趙
+  hash: sha256:841e599f724d13cf9d29217a5477780fc9846d5575c2f80de25b7fcf5f7b0675
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:fe0e369596c8233d763ae528c36bb33cb226008a24bb0401018a5fc4cc687f9a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/122
+seq: 122
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為勾加差於並而半之為股載堉圖解曰此段總說上文三段之意兩差勾股差一勾弦差二相乘一二如二倍而為四開之所得二以股弦差一增之為勾三以勾弦差二增之為股四兩差一二增之為弦五倍弦實二十五得五十列勾股差實一見弦實二十五者以圖考之倍弦實得五十滿外大方四十九而多黃
+  hash: sha256:d11ff0ea7ef8aa59d4c3922b747cbd9a9383b49bf7db7a6d309a46516faba0bc
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:d4c413b61eafe2f98f13bd9b23903962f3d523f9e70ce5968c2833d52432e5c3

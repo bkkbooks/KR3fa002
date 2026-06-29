@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲圓或破圓而爲方方中爲圓者謂之圓方圓中爲方者謂之方圓中當作外
+  hash: sha256:04d6c580b548f99e11df12918eec2af79cf6775d515833b20b05df6a72a4b30c
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:b4af68c5710b62eccf59d15ef40ed22604decade144b5bd2fde04a32151dee19

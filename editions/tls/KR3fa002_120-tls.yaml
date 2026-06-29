@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/120
+seq: 120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 趙君卿註曰兩差相乗倍而開之所得以股弦差增之爲勾以勾弦差增之爲股兩差增之爲弦倍弦實列勾股差實見弦實者以圖考之倍弦實滿外大方而多黃實黃實之多即勾股差實以差實減之開其餘得外大方外大方之面即勾股幷也冷幷自乗倍弦實乃減之開其餘得中黃方中黃方之面即勾股差以差減幷而半之
+  hash: sha256:9d13b02779286b1ca54e969a49a58a9c8f77be03b9314241724f814925628464
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:c9e46c973ba19d5792304db9489f923f0d356dd4cb3c2ffea678663547e7ca7f

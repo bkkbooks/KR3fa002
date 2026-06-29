@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/138
+seq: 138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為股之廣所謂廣袤差者勾廣一而袤九股廣二而袤八廣袤相減之餘也載堉圖解曰此一段當分作兩條解之先就勾說次就股說詳見下文其倍弦五得十為廣袤合而令勾股見者以弦五倍之又自乘得一百為其實乃四因勾實九得三十六以減一百之數開其餘六十四所得八為差以差八減合十半
+  hash: sha256:88db4c3c2199b53863a36b4a6e0c6258aacbd90f1b14d4ff1e02cbab5d28d8da
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:5cf0a17e4897ac2f0c482d073078ee3a866d5f562c6ebc684ea9d71569a73ed0

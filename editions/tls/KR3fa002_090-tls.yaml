@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/90
+seq: 90
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 載堉圖解曰按經文作既方之外而註文作既方其外之其二字不同必有一誤疑之者誤也其者是也既方其外者言勾實股實弦實三者外面皆方所謂羃也羃者方之義也註文當作或併勾股之實以求弦實弦實之中乃求勾股之分併也此處該重弦實二字原文脫去止存二字讀之文義不相接矣
+  hash: sha256:c3244620cd6785752b494d53a1c23aa902b32e9a39c4ac0418d8f9b6b820f824
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:29f8ff411aece7a1c56b071ec0c40dbecf680788aff771bed23558175fed68a0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 豈能識之歟今擇圓方筭率一段而表章之以爲圓方密率之本源也一君卿舊註煩者刪之斷者續之不必盡依舊註一除圓內容方筭率外凡係天文曆法今並不述一舊有圖若干新添圖若干各隨經文次序列之
+  hash: sha256:22d754d5e194258dd442a766a4a74ae5decee23b0bde2614531932e6fc2ecbeb
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:36ff7d8689de66dda8231c4a0debade91d7754bf6d1e0a0039d7018473309753

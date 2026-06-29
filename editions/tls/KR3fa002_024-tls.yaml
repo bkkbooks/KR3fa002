@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而並之故能彌綸天地之道有以見天地之賾則渾天有靈憲之文蓋天有周髀之法累代存之官司是掌所以欽若昊天恭授民時爽以暗蔽才學淺昧憐高山之仰止慕景行之軌轍負薪餘日聊觀周髀其旨約而遠其言曲而中將恐廢替濡滯不通使談天者無所取則輒依經爲圖仍冀頺毀重級之牆披露堂室之奧庶博物君子時逈思焉
+  hash: sha256:7d58d764ebf658a9f8ffc000d7823a8f7eb5097bb4673c85982df6f532dc9387
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:650867a1baa778c44a88caa4c84345cc3e80f1be16426bcd2ea743497c535eaf

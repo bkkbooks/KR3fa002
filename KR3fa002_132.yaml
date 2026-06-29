@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/132
+seq: 132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 趙君卿注曰其倍弦為黃袤合而令勾股見者自乘為其實四實以減之開其餘所得為差以差減合半其餘為黃減黃於弦即所求也觀其迭相規矩共為反覆互為通分各有所得然則統敘羣倫經稽衆理貫幽入微鉤深致遠故曰其裁制萬物唯所為之也李淳風注曰謹按列廣袤術宜云倍弦五
+  hash: sha256:a87b2ea2b07b8eb763c4aa3f3689a30ac703abc8c2ecb1aa58435e5611c3fa79
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:696be46402e2df509209a8f3d96123b6506df775f9b5dd74615ff1a779882fa3

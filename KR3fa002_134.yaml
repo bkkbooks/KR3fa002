@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa002/tls/v1/juan/134
+seq: 134
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得十為廣袤合令自乘者十自乘得一百四實者大方廣袤之中有四方若據勾實而言一方之中有實九四實有三十六減上一百餘六十四開之得八即廣袤差此是股弦差減股弦並餘數也若據股實而言一方之中有實十六四實有六十四減上一百餘三十六開之得六即廣袤差此是勾弦差減勾弦並餘數也以差八六各
+  hash: sha256:f79d0dd4f3abdca67eb18aaea98dfe849f5b4105f1aecbd47217a93340be51d5
+metadata:
+  title: 古周髀算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa002.xml
+hash: sha256:3fb23f6137430f6eb14f6e37fd5e4ec0c6c1c93edefd3c30b12ccfa0b6596d90
