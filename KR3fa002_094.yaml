@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 趙君卿注曰按弦圖又可以勾股相乘為朱實二倍之為朱實四以勾股之差自相乘為中黃實加差實亦成弦實以差實減弦實半其餘以差為從法開方除之復得勾矣加差於勾即股凡並勾股之實即成弦實或矩於內或方於外形詭而量均體殊而數齊載堉圖解曰按君即古注文義深奧讀者
-  hash: sha256:7fdde1df2cd1e68f97fd86988838b779b70a6c7ea5c1ba6a7e25d25c91131799
+  text: 趙君卿註曰按弦圖又可以勾股相乗爲朱實二倍之爲朱實四以勾股之差自相乗爲中黃實加差實亦成弦實以差實減弦實半其餘以差爲從法開方除之復得勾矣加差於勾即股凡幷勾股之實即成弦實或矩於內或方於外形詭而量均體殊而數齊載堉圖解曰按君即古註文義深奧讀者
+  hash: sha256:5f269d4cbb3ad2ca30271d4e23c8b8963dbd69ca0203d4dbfb7c90f0a7892f0f
 metadata:
   title: 古周髀算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa002.xml
-hash: sha256:aa99fae0720544cc656a6ad961003d764d4c40937889aeb80abbaebb47b9dddf
+hash: sha256:62321e199564fbd822d463ae0a4fe536705b264776cef0fed9841e0188ecef77

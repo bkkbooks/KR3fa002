@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 為法除勾實九得股弦并九以並九為法除勾實九亦得股弦差一令並九自乘得八十一與勾實九共九十為實倍並九得十八為法除之所得亦弦五勾實九減並九自乘八十一餘七十二如法十八除之為股四右第二段
-  hash: sha256:e7e680b8b15380060c87fe012a00290cb069a2587393a610c1286d292df1c0be
+  text: 爲法除勾實九得股弦并九以幷九為法除勾實九亦得股弦差一令幷九自乗得八十一與勾實九共九十爲實倍幷九得十八爲法除之所得亦弦五勾實九減幷九自乗八十一餘七十二如法十八除之爲股四右第二段
+  hash: sha256:e7d6b7aa663bd78fe4710b29ad321b6d6575c5e4ec7872ae012b580e7810439c
 metadata:
   title: 古周髀算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa002.xml
-hash: sha256:0b894475a7bc5589f38e693ce67f83674ed9455d234a776fe6b7de9b07a199da
+hash: sha256:0a31aa92fe57392a3eff9580a5c4c26d3961ac4cf27167f0ce5f04b3f378b761

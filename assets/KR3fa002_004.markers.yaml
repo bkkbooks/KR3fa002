@@ -5,7 +5,6 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fa002_tls_001-p1.s10}
   - {type: line-break, offset: 0, content: '', id: KX_10}
-  - {type: substitution, offset: 4, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 17, content: '', id: KR3fa002_tls_001-p1.s11}
   - {type: line-break, offset: 17, content: '', id: KX_11}
   - {type: 'tls:seg', offset: 34, content: '', id: KR3fa002_tls_001-p1.s12}
@@ -16,12 +15,9 @@ markers:
   - {type: line-break, offset: 68, content: '', id: KX_14}
   - {type: 'tls:seg', offset: 85, content: '', id: KR3fa002_tls_001-p1.s15}
   - {type: line-break, offset: 85, content: '', id: KX_15}
-  - {type: substitution, offset: 86, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
-  - {type: substitution, offset: 100, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
   - {type: 'tls:seg', offset: 102, content: '', id: KR3fa002_tls_001-p1.s16}
   - {type: line-break, offset: 102, content: '', id: KX_16}
-  - {type: substitution, offset: 112, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: 'tls:seg', offset: 119, content: '', id: KR3fa002_tls_001-p1.s17}
   - {type: line-break, offset: 119, content: '', id: KX_17}
   back: []
-hash: sha256:cd16b6301971dbc2355a731a05426458e82a4048e7d2d69396f288beba10196c
+hash: sha256:4b5665f6600bcb203a0f8b2e8b14764be06921b0cde9b92582eb63260e63bdbd

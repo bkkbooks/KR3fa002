@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 圍三徑一圖解內徑一尺而六面各五寸五六三十是名圍三徑一夫圍三徑一乃六角田之圍徑內層是也外層圓田則非圍三徑一觀此圖雖愚夫愚婦可以知其理矣善算名家返執守之認為圓率豈非最謬也哉
-  hash: sha256:b078353133f96891b856e0c8d03d1cd92c96911f790d2f2baef259db87d0bd37
+  text: 圍三徑一圖解內徑一尺而六面各五寸五六三十是名圍三徑一夫圍三徑一乃六角田之圍徑內層是也外層圓田則非圍三徑一觀此圖雖愚夫愚婦可以知其理矣善筭名家返執守之認爲圓率豈非最謬也哉
+  hash: sha256:50101b5bc67d6dc9f736f73b598acf3ae15e7f31300ed8ad71b52aa4e6340d21
 metadata:
   title: 古周髀算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa002.xml
-hash: sha256:fffa0e984d0d663d5b3ec8d7b5afdf731d7be23787795b3da7af22abfbd6380f
+hash: sha256:28cd533d1864aa0758cc380537cfe798256c7f6679d5f15562861acd0d8740c9
