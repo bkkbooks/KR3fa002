@@ -7,12 +7,14 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_10_dup20, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: 'tls:seg', offset: 16, content: '', id: KR3fa002_tls_001-p37.s11}
   - {type: line-break, offset: 16, content: '', id: KX_11_dup20, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: substitution, offset: 21, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: 'tls:seg', offset: 27, content: '', id: KR3fa002_tls_001-p37.s12}
   - {type: line-break, offset: 27, content: '', id: KX_12_dup20, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fa002_tls_001-p37.s13}
   - {type: line-break, offset: 43, content: '', id: KX_13_dup20, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 59, content: '', id: KR3fa002_tls_001-p37.s14}
   - {type: line-break, offset: 59, content: '', id: KX_14_dup20, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 64, original: 澣, replacement: 浣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18265}}
   - {type: 'tls:seg', offset: 70, content: '', id: KR3fa002_tls_001-p37.s15}
   - {type: line-break, offset: 70, content: '', id: KX_15_dup20, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 86, content: '', id: KR3fa002_tls_001-p37.s16}
@@ -20,4 +22,4 @@ markers:
   - {type: 'tls:seg', offset: 102, content: '', id: KR3fa002_tls_001-p37.s17}
   - {type: line-break, offset: 102, content: '', id: KX_17_dup21, _xml_error: duplicate-id, _xml_original_id: KX_17}
   back: []
-hash: sha256:9369222183e9d9b653c001835cc85eba15001f47ef59bb09d0c132d0f515eb95
+hash: sha256:840cb856e08bde44f6efe76efb0af4e084c250d02590f8f83089d8b037990191

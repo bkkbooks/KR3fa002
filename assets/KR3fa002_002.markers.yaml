@@ -7,15 +7,19 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_2}
   - {type: 'tls:seg', offset: 5, content: '', id: KR3fa002_tls_001-p1.s3}
   - {type: line-break, offset: 5, content: '', id: KX_3}
+  - {type: substitution, offset: 16, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: 'tls:seg', offset: 22, content: '', id: KR3fa002_tls_001-p1.s4}
   - {type: line-break, offset: 22, content: '', id: KX_4}
   - {type: 'tls:seg', offset: 39, content: '', id: KR3fa002_tls_001-p1.s5}
   - {type: line-break, offset: 39, content: '', id: KX_5}
+  - {type: substitution, offset: 52, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 56, content: '', id: KR3fa002_tls_001-p1.s6}
   - {type: line-break, offset: 56, content: '', id: KX_6}
+  - {type: substitution, offset: 60, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
+  - {type: substitution, offset: 63, original: 疎, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17540}}
   - {type: 'tls:seg', offset: 73, content: '', id: KR3fa002_tls_001-p1.s7}
   - {type: line-break, offset: 73, content: '', id: KX_7}
   - {type: 'tls:seg', offset: 90, content: '', id: KR3fa002_tls_001-p1.s8}
   - {type: line-break, offset: 90, content: '', id: KX_8}
   back: []
-hash: sha256:e12aee8c7952422035cc5d55439f486c02198740e861ae3d0c4730cbbb9b2afa
+hash: sha256:00d266a44a26a87a94ce113e0c35036937412afd4019fae2228db2aea658d9b5
